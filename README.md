@@ -1,2 +1,2 @@
 # COMET
-Paper Submitted to IEEE QCE 2026
+Paper Accepted at IEEE QCE 2026
